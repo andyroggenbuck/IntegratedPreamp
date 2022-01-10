@@ -60,7 +60,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MKRNJOXG
 
 [Document2]
-DocumentPath=Integrated Preamp PCB.PcbDoc
+DocumentPath=Integrated Preamp PCB v2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
