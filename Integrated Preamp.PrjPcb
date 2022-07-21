@@ -60,7 +60,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MKRNJOXG
 
 [Document2]
-DocumentPath=Integrated Preamp PCB v2.PcbDoc
+DocumentPath=Integrated Preamp PCB v3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -126,6 +126,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document6]
+DocumentPath=Integrated Preamp PCB v2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XMBXLJFC
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Integrated Preamp\Design Rule Check - Integrated Preamp PCB.html
