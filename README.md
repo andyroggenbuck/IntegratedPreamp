@@ -22,7 +22,7 @@ This was my first design involving a switching power supply, and only my third d
   - Interestingly, the EMI from the charge pump induces significant 30kHz switching noise in the circuit when the input is unloaded, but it disappears when a signal source is plugged into the input.
 - Know where your files are saved!
   - I opened an earlier version of the PCB design from Altium's "local history" and used it as a starting point for a new revision of the layout, and I clicked "Save" without actually knowing where the PCB file was saved. Then Altium crashed, and when I reopened it my file was gone.
-  - I needed to save a copy of the PCB file in my project folder and add it to version control. I think the file I edited was actually in a temp folder.
+  - I needed to save a copy of the PCB file in my project folder and add it to version control. I think the file I worked on was actually in a temp folder.
 
 </br>
 <p align="center">
