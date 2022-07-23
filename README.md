@@ -26,9 +26,9 @@ This was my first design involving a switching power supply, and only my third d
 
 </br>
 <p align="center">
-  <img alt="PCB layout" src="https://github.com/andyroggenbuck/IntegratedPreamp/blob/master/Images/PCB%201.jpg" width="33%">
-  <img alt="PCB layout top layer" src="https://github.com/andyroggenbuck/IntegratedPreamp/blob/master/Images/PCB%20top%20layer.jpg" width="33%">
-  <img alt="PCB layout bottom layer" src="https://github.com/andyroggenbuck/IntegratedPreamp/blob/master/Images/PCB%20bottom%20layer.jpg" width="33%">
+  <img alt="PCB layout" src="https://github.com/andyroggenbuck/IntegratedPreamp/blob/master/Images/PCB%201.jpg" width="32%">
+  <img alt="PCB layout top layer" src="https://github.com/andyroggenbuck/IntegratedPreamp/blob/master/Images/PCB%20top%20layer.jpg" width="32%">
+  <img alt="PCB layout bottom layer" src="https://github.com/andyroggenbuck/IntegratedPreamp/blob/master/Images/PCB%20bottom%20layer.jpg" width="32%">
   </br>
   </br>
   <img alt="Schematic" src="https://github.com/andyroggenbuck/IntegratedPreamp/blob/master/Images/Integrated%20Preamp%20Sch-1.jpg" width="100%">
