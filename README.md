@@ -10,21 +10,6 @@ The circuit is the same as the original TC Electronic pedal except for the power
 &nbsp; &nbsp; &nbsp;
   <img alt="Pedal Exterior" src="https://github.com/andyroggenbuck/IntegratedPreamp/blob/master/Images/Integrated%20Preamp%20Exterior.jpg" width="45%">
 </p>
-</br>
-
-## Lessons Learned
-
-This was my first design involving a switching power supply, and only my third design using Altium Designer, so I learned a lot. Interesting lessons from this project include:
-- Oscilloscope probes pick up radiated EMI! This seems pretty obvious, but I hadn't seen it this significantly before.
-  - This can be helpful -- hovering the probe over the circuit while watching the scope makes it easy to see where the noisest parts are. C1, C3, and C5 in this circuit are connected to the switching pin of the charge pump IC, and they radiate lots of noise.
-
-- Remember the off-board wiring when placing noisy components!
-  - I took care to keep the charge pump separated from the audio circuit on the PCB, but then ended up putting the noisiest parts right next to the off-board signal input jack because I was only thinking about the board layout and not the rest of the assembly. Luckily this didn't cause any major issues in the performance of this pedal, but I'll consider it more carefully in future designs.
-  - Interestingly, the EMI from the charge pump does induce significant switching noise in the audio signal when the input is unloaded, but when a signal source is plugged into the input the noise disappears.
-
-- Know where your files are saved!
-  - I opened an earlier version of the PCB design from Altium's "local history" and used it as a starting point for a new revision of the layout, and I clicked "Save" without actually knowing where the PCB file was saved. Then Altium crashed, and when I reopened it my file was gone.
-  - I needed to save a copy of the PCB file in my project folder and add it to version control. I think the file I worked on was actually in a temp folder.
 
 </br>
 <p align="center">
